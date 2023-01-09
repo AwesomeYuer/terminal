@@ -122,7 +122,7 @@ namespace Samples.Terminal
                     {
                         // decode back from unicode
                         var datum = Encoding.Unicode.GetString(mem.Span);
-                        Console.Write(datum);
+                        Console.WriteLine(datum);
                     }
 
                     reader.AdvanceTo(sequence.End);
