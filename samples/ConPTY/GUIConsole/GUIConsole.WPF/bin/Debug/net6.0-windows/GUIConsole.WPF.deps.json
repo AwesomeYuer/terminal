@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "GUIConsole.WPF/1.0.0": {
+        "dependencies": {
+          "GUIConsole.ConPTY": "1.0.0"
+        },
+        "runtime": {
+          "GUIConsole.WPF.dll": {}
+        }
+      },
+      "GUIConsole.ConPTY/1.0.0": {
+        "runtime": {
+          "GUIConsole.ConPTY.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GUIConsole.WPF/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GUIConsole.ConPTY/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

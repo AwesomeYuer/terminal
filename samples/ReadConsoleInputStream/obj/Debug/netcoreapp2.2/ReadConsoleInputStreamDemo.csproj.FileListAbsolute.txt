@@ -1,0 +1,13 @@
+D:\MyGitHub\terminal\samples\ReadConsoleInputStream\bin\Debug\netcoreapp2.2\ReadConsoleInputStreamDemo.deps.json
+D:\MyGitHub\terminal\samples\ReadConsoleInputStream\bin\Debug\netcoreapp2.2\ReadConsoleInputStreamDemo.runtimeconfig.json
+D:\MyGitHub\terminal\samples\ReadConsoleInputStream\bin\Debug\netcoreapp2.2\ReadConsoleInputStreamDemo.runtimeconfig.dev.json
+D:\MyGitHub\terminal\samples\ReadConsoleInputStream\bin\Debug\netcoreapp2.2\ReadConsoleInputStreamDemo.dll
+D:\MyGitHub\terminal\samples\ReadConsoleInputStream\bin\Debug\netcoreapp2.2\ReadConsoleInputStreamDemo.pdb
+D:\MyGitHub\terminal\samples\ReadConsoleInputStream\obj\Debug\netcoreapp2.2\ReadConsoleInputStreamDemo.csproj.AssemblyReference.cache
+D:\MyGitHub\terminal\samples\ReadConsoleInputStream\obj\Debug\netcoreapp2.2\ReadConsoleInputStreamDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyGitHub\terminal\samples\ReadConsoleInputStream\obj\Debug\netcoreapp2.2\ReadConsoleInputStreamDemo.AssemblyInfoInputs.cache
+D:\MyGitHub\terminal\samples\ReadConsoleInputStream\obj\Debug\netcoreapp2.2\ReadConsoleInputStreamDemo.AssemblyInfo.cs
+D:\MyGitHub\terminal\samples\ReadConsoleInputStream\obj\Debug\netcoreapp2.2\ReadConsoleInputStreamDemo.csproj.CoreCompileInputs.cache
+D:\MyGitHub\terminal\samples\ReadConsoleInputStream\obj\Debug\netcoreapp2.2\ReadConsoleInputStreamDemo.dll
+D:\MyGitHub\terminal\samples\ReadConsoleInputStream\obj\Debug\netcoreapp2.2\ReadConsoleInputStreamDemo.pdb
+D:\MyGitHub\terminal\samples\ReadConsoleInputStream\obj\Debug\netcoreapp2.2\ReadConsoleInputStreamDemo.genruntimeconfig.cache

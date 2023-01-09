@@ -1,0 +1,16 @@
+D:\MyGitHub\terminal\samples\ConPTY\MiniTerm\MiniTerm\obj\Debug\net6.0\MiniTerm.csproj.AssemblyReference.cache
+D:\MyGitHub\terminal\samples\ConPTY\MiniTerm\MiniTerm\obj\Debug\net6.0\MiniTerm.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyGitHub\terminal\samples\ConPTY\MiniTerm\MiniTerm\obj\Debug\net6.0\MiniTerm.AssemblyInfoInputs.cache
+D:\MyGitHub\terminal\samples\ConPTY\MiniTerm\MiniTerm\obj\Debug\net6.0\MiniTerm.AssemblyInfo.cs
+D:\MyGitHub\terminal\samples\ConPTY\MiniTerm\MiniTerm\obj\Debug\net6.0\MiniTerm.csproj.CoreCompileInputs.cache
+D:\MyGitHub\terminal\samples\ConPTY\MiniTerm\MiniTerm\bin\Debug\net6.0\MiniTerm.exe
+D:\MyGitHub\terminal\samples\ConPTY\MiniTerm\MiniTerm\bin\Debug\net6.0\MiniTerm.dll.config
+D:\MyGitHub\terminal\samples\ConPTY\MiniTerm\MiniTerm\bin\Debug\net6.0\MiniTerm.deps.json
+D:\MyGitHub\terminal\samples\ConPTY\MiniTerm\MiniTerm\bin\Debug\net6.0\MiniTerm.runtimeconfig.json
+D:\MyGitHub\terminal\samples\ConPTY\MiniTerm\MiniTerm\bin\Debug\net6.0\MiniTerm.dll
+D:\MyGitHub\terminal\samples\ConPTY\MiniTerm\MiniTerm\bin\Debug\net6.0\MiniTerm.pdb
+D:\MyGitHub\terminal\samples\ConPTY\MiniTerm\MiniTerm\obj\Debug\net6.0\MiniTerm.dll
+D:\MyGitHub\terminal\samples\ConPTY\MiniTerm\MiniTerm\obj\Debug\net6.0\refint\MiniTerm.dll
+D:\MyGitHub\terminal\samples\ConPTY\MiniTerm\MiniTerm\obj\Debug\net6.0\MiniTerm.pdb
+D:\MyGitHub\terminal\samples\ConPTY\MiniTerm\MiniTerm\obj\Debug\net6.0\MiniTerm.genruntimeconfig.cache
+D:\MyGitHub\terminal\samples\ConPTY\MiniTerm\MiniTerm\obj\Debug\net6.0\ref\MiniTerm.dll

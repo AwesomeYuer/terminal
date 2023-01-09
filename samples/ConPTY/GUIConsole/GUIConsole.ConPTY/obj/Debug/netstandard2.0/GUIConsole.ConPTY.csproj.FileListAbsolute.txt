@@ -1,0 +1,10 @@
+D:\MyGitHub\terminal\samples\ConPTY\GUIConsole\GUIConsole.ConPTY\bin\Debug\netstandard2.0\GUIConsole.ConPTY.deps.json
+D:\MyGitHub\terminal\samples\ConPTY\GUIConsole\GUIConsole.ConPTY\bin\Debug\netstandard2.0\GUIConsole.ConPTY.dll
+D:\MyGitHub\terminal\samples\ConPTY\GUIConsole\GUIConsole.ConPTY\bin\Debug\netstandard2.0\GUIConsole.ConPTY.pdb
+D:\MyGitHub\terminal\samples\ConPTY\GUIConsole\GUIConsole.ConPTY\obj\Debug\netstandard2.0\GUIConsole.ConPTY.csproj.AssemblyReference.cache
+D:\MyGitHub\terminal\samples\ConPTY\GUIConsole\GUIConsole.ConPTY\obj\Debug\netstandard2.0\GUIConsole.ConPTY.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyGitHub\terminal\samples\ConPTY\GUIConsole\GUIConsole.ConPTY\obj\Debug\netstandard2.0\GUIConsole.ConPTY.AssemblyInfoInputs.cache
+D:\MyGitHub\terminal\samples\ConPTY\GUIConsole\GUIConsole.ConPTY\obj\Debug\netstandard2.0\GUIConsole.ConPTY.AssemblyInfo.cs
+D:\MyGitHub\terminal\samples\ConPTY\GUIConsole\GUIConsole.ConPTY\obj\Debug\netstandard2.0\GUIConsole.ConPTY.csproj.CoreCompileInputs.cache
+D:\MyGitHub\terminal\samples\ConPTY\GUIConsole\GUIConsole.ConPTY\obj\Debug\netstandard2.0\GUIConsole.ConPTY.dll
+D:\MyGitHub\terminal\samples\ConPTY\GUIConsole\GUIConsole.ConPTY\obj\Debug\netstandard2.0\GUIConsole.ConPTY.pdb

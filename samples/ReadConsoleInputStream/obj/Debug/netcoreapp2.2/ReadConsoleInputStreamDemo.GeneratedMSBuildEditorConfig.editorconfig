@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Samples.Terminal
+build_property.ProjectDir = D:\MyGitHub\terminal\samples\ReadConsoleInputStream\

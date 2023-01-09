@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = GUIConsole.ConPTY
+build_property.ProjectDir = D:\MyGitHub\terminal\samples\ConPTY\GUIConsole\GUIConsole.ConPTY\
