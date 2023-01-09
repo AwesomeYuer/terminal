@@ -14,4 +14,3 @@ NuGet packages used (GitHub links):
 
 * [Pipelines.Sockets.Unofficial](https://github.com/mgravell/Pipelines.Sockets.Unofficial)
 * [Vanara P/Invoke](https://github.com/dahall/Vanara)
-
